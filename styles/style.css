@@ -163,7 +163,7 @@ body {
 }
 
 /* HOVER */
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
   background-color: var(--cor-hover);
   font-size: 1.625rem;
 } 
